@@ -5,6 +5,7 @@
 真央教授
 エルマス
 わかばちゃん
+俺
 
 
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
